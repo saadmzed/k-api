@@ -1,65 +1,69 @@
-# [BDManager v1.0](https://t.me/BeyondTeam)
-An advanced administration bot based on BDMessenger
+# [k-nam V6 (Final Version)](https://telegram.me/saad7m)
 
-[![Bot API](http://img.shields.io/badge/Bot%20API-v3.2-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
+**An advanced and powerful administration bot based on NEW TG-CLI
+
 
 * * *
 
-## Configure
+## Commands
 
-* Put Your Bot `TOKEN` At Line `3`
-* Put Your `Telegram ID` At Line `5 & 186`
+| Use help |
+|:--------|:------------|
+| [#!/]help | just send help in your group and get the commands |
+
+**You can use "#", "!", or "/" to begin all commands
+
+* * *
 
 # Installation
+
+**If use K-Helper put your helper bot Username Without @ in bot.lua, line 22
 
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDManager.git
-cd BDManager
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
-
+git clone https://github.com/saadmzed/k-namapi.git
+cd k-namapi
+chmod +x k-nam.sh
+./k-nam.sh install
+./k-nam.sh 
+# Enter a phone number & confirmation code.
 
 # For Auto Launch:
-chmod 777 autobd.sh
+cd k-nam
+chmod 777 auto-k.sh
 tmux
-./autobd.sh
-# End ;)
+./auto-k.sh
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
-```
+cd $HOME && git clone https://github.com/saadmzed/k-namapi.git && cd k-namapi && chmod +x k-nam.sh && ./k-nam.sh install && ./k-nam.sh
 
+* * *
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+More information [k-nam Global Chat](https://telegram.me/joinchat/AAAAAD25mIzUH_IQvF8HsQ)
 
 # Special thanks to
+[@MrHalix](https://github.com/MrHalix)
 
-`Beyond Team Members`
+[@Vysheng](https://github.com/vysheng)
+
+[@BeyondTeam](https://t.me/BeyondTeam)
 
 * * *
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
+[saad](https://github.com/saadmzed) ([Telegram](https://telegram.me/saad7m))
 
-[MAKAN](https://github.com/makanj) ([Telegram](https://t.me/MAKAN))
 
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
+### Our Telegram channel:
 
-[TheNIS](https://t.me/bypa3r)
+[@kenamch](https://telegram.me/kenamch)
 
-### Our Telegram Channel:
+### Our Web Site:
 
-[@BeyondTeam](https://t.me/BeyondTeam)
-
-### Our Forum:
-
-[Beyond Team Forum](https://Beyond-Dev.ir)
+[k-nam Development Forum](https://k-nam-Dev.iR)
