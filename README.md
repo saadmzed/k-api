@@ -1,6 +1,6 @@
-# [k-nam V6 (Final Version)](https://telegram.me/saad7m)
+# [k-namapi V7 (Final Version)](https://telegram.me/saad7m)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
+**An advanced and powerful administration bot based on NEW API
 
 
 * * *
