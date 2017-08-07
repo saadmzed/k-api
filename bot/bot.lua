@@ -1,8 +1,8 @@
 package.path = package.path..';.luarocks/share/lua/5.2/?.lua;.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath..';.luarocks/lib/lua/5.2/?.so'
-bot_token = "TOKEN"
+bot_token = "397273060:AAFoWkceM4eFrUKjFHNbncoazh1dSNHlMLs"
 send_api = "https://api.telegram.org/bot"..bot_token
-sudo_id = 157059515
+sudo_id = 30742221
 http = require('socket.http')
 https = require('ssl.https')
 URL = require('socket.url')
@@ -15,7 +15,7 @@ JSON = (loadfile "./libs/dkjson.lua")()
 serpent = (loadfile "./libs/serpent.lua")()
 require('./bot/methods')
 require('./bot/utils')
--- @BeyondTeam
+-- @kenamch
 function bot_run()
 	bot = nil
 	while not bot do
@@ -171,7 +171,7 @@ function create_config( )
 	io.write('\n\27[1;33m>> Input your Telegram ID for set Sudo :\27[0;39;49m')
 	local SUDO = tonumber(io.read())
 if not tostring(SUDO):match('%d+') then
-    SUDO = 157059515
+    SUDO = 30742221
   end
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
@@ -180,32 +180,30 @@ if not tostring(SUDO):match('%d+') then
     "msg_checks",
     "groupmanager",
     "tools",
-    "banhammer"
+    "banhammer",
+    "reply"
     },
-    sudo_users = {157059515, SUDO},--Sudo users
+    sudo_users = {30742221, SUDO},--Sudo users
     master_id = SUDO, 
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[*》Beyond Manager V1.0*
-`》An advanced administration bot based on` *BDMessenger*
+    info_text = [[*》Kenam Manager V1.0*
+`》An advanced administration bot based on` *TEAM-KENAM*
 
-》[Beyond Manager](https://github.com/BeyondTeam/BDManager)
+》[KENAM-SURCE](https://github.com/saadmzed/k-api)
 
 *》Admins :*
-*》Founder & Developer :* [SoLiD](Telegram.Me/SoLiD)
-_》Developer & Sponser :_ [MAKAN](Telegram.Me/MAKAN)
-_》Developer :_ [ToOfan](Telegram.Me/ToOfan)
-_》Developer :_ [TheNIS](Telegram.Me/bypa3r)
+*》Founder & Developer :* [saadmzed](Telegram.Me/saad7m)
 
 *》Special thanks to :*
-`Beyond Team Members`
+`Beyond Team `
 
 *》Our channel :*
-》[BeyondTeam](Telegram.Me/BeyondTeam)
+》[TEAM-KENAM](Telegram.Me/kenamch)
 
-*》Our Site :*
-[Beyond Team Forum](beyond-dev.ir)
+*》Our channel2 :*
+[KENAM-CALL](kenam_ch)
 ]],
   }
   serialize_to_file(config, './data/config.lua')
