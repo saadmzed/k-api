@@ -194,7 +194,7 @@ if not tostring(SUDO):match('%d+') then
 》[KENAM-SURCE](https://github.com/saadmzed/k-api)
 
 *》Admins :*
-*》Founder & Developer :* [saadmzed](Telegram.Me/saad7m)
+*》Developer :* [saadmzed](Telegram.Me/saad7m)
 
 *》Special thanks to :*
 `Beyond Team `
@@ -203,7 +203,7 @@ if not tostring(SUDO):match('%d+') then
 》[TEAM-KENAM](Telegram.Me/kenamch)
 
 *》Our channel2 :*
-[KENAM-CALL](kenam_ch)
+[KENAM-CALL](t.me/kenam_ch)
 ]],
   }
   serialize_to_file(config, './data/config.lua')
