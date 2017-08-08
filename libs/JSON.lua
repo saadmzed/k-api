@@ -1049,5 +1049,5 @@ return OBJDEF:new()
 --
 --   20100810.2    added some checking to ensure that an invalid Unicode character couldn't leak in to the UTF-8 encoding
 --
---   20100731.1    initial public release
+--   20100731.1    initial public release]
 --
