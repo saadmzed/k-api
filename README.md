@@ -54,7 +54,7 @@ cd $HOME && git clone https://github.com/saadmzed/k-namapi.git && cd k-namapi &&
 More information [k-nam Global Chat](https://telegram.me/joinchat/AAAAAD25mIzUH_IQvF8HsQ) كروب الدعم 
 
 # Special thanks to
-# شكر خاص الى مؤسسين السورس
+# شكر خاص الى 
 [@MrHalix](https://github.com/MrHalix)
 
 [@Vysheng](https://github.com/vysheng)
@@ -65,13 +65,13 @@ More information [k-nam Global Chat](https://telegram.me/joinchat/AAAAAD25mIzUH
 
 # Developers!
 # مطور السورس
-[saad](https://github.com/saadmzed) ([Telegram](https://telegram.me/saad7m))
+[saadmzed](https://github.com/saadmzed) ([Telegram](https://telegram.me/saad7m))
 
 
 ### Our Telegram channel:
 
 [@kenamch](https://telegram.me/kenamch)
 
-### Our Web Site:
+### Our Telegram channel2:
 
-[k-nam Development Forum](https://k-nam-Dev.iR)
+[k-nam Development Forum](https:/te.me/kenam_ch)
