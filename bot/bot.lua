@@ -191,7 +191,7 @@ if not tostring(SUDO):match('%d+') then
     info_text = [[*》Kenam Manager V1.0*
 `》An advanced administration bot based on` *TEAM-KENAM*
 
-》[KENAM-SURCE](https://github.com/saadmzed/k-api)
+》[KENAM-SURCE](https://github.com/saadmzed/k-namapi)
 
 *》Admins :*
 *》Developer :* [saadmzed](Telegram.Me/saad7m)
