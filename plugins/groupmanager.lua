@@ -954,7 +954,7 @@ if matches[1] == "فحص" and matches[2] and is_mod(msg) then
 		local text = 'Username: @'..(check_markdown(user.username) or '')..' \nFirstName: '..escape_markdown(user.firstname)..' \nLastName: '..lst_name..' \nBio: '..(escape_markdown(user.bio) or '')
 		return text
 end
-if matches[1] == 'المطور' then
+if matches[1] == 'المطور' or matches[1] == "كينام" then
 return _config.info_text
 end
 if matches[1] == "ايدي" then
@@ -1945,7 +1945,8 @@ return {
     "^(ضع زمن التكرار) (%d+)$",
     "^(تدقيق) (%d+)$",
     "^(امسح) (%d+)$",
-	"^(المطو9)$",
+	"^(المطور)$",
+	"^(كينام)$",
 	"^([https?://w]*.?telegram.me/joinchat/%S+)$",
 	"^([https?://w]*.?t.me/joinchat/%S+)$"
     },
