@@ -188,7 +188,7 @@ if not tostring(SUDO):match('%d+') then
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[*》Kenam Manager V1.0*
+    info_text = [[*》Kenam Manager V7.0*
 `》An advanced administration bot based on` *TEAM-KENAM*
 
 》[KENAM-SURCE](https://github.com/saadmzed/k-namapi)
