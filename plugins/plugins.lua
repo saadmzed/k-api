@@ -68,7 +68,7 @@ local function list_plugins(only_enabled)
      -- text = text..v..'  '..status..'\n'
     end
   end
-  local text = text.."\n_🔃All Plugins Reloaded_\n\n"..nact.." *✔️الملفات المفعله ✨*\n"..nsum.." *📂الملفات المثبته 🎗*\n\n[KENAM-BOT](Telegram.Me/kenamch)"
+  local text = text.."\n_🔃تم تحديث السرفر والملفات_\n\n"..nact.." *✔️الملفات المفعله ✨*\n"..nsum.." *📂الملفات المثبته 🎗*\n\n[KENAM-BOT](Telegram.Me/kenamch)"
 return text
 end
 
