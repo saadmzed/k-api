@@ -1,7 +1,8 @@
 # [k-namapi V7 (Final Version)](https://telegram.me/saad7m)
 
 **An advanced and powerful administration bot based on NEW API
-
+💡 اهلا وسهلا بكم في سورس بوت كينام الذكي 💡
+ملاحظه : التحديث والتطوير مستمر حول السورس ‼️
 
 * * *
 
