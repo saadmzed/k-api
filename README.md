@@ -5,11 +5,11 @@
 
 * * *
 
-## Commands
-## الاوامر
+## Commands |
+## ⭐️💎 الاوامر
 | help | just send help in your group and get the commands |
 
-| help | ارسل امر مساعده لعرض الاوامر داخل المجموعه |
+| help | ارسل امر مساعده لعرض الاوامر داخل المجموعه |او اكتب الاوامر|
 
 **الاوامر تعمل بدون [!/#]
 
@@ -17,7 +17,7 @@
 
 # Installation
 ```sh
-# مع كل امر اضغط انتر.
+# مع كل امر اضغط انتر. ⭐️💎
 ➖➖➖➖➖➖➖➖➖➖➖➖
 🔹 cd $HOME
 ➖➖➖➖➖➖➖➖➖➖➖➖
@@ -54,7 +54,7 @@ cd $HOME && git clone https://github.com/saadmzed/k-namapi.git && cd k-namapi &&
 More information [k-nam Global Chat](https://telegram.me/joinchat/AAAAAD25mIzUH_IQvF8HsQ) كروب الدعم 
 
 # Special thanks to
-# شكر خاص الى 
+# شكر خاص الى ⭐️💎
 [@MrHalix](https://github.com/MrHalix)
 
 [@Vysheng](https://github.com/vysheng)
@@ -64,11 +64,11 @@ More information [k-nam Global Chat](https://telegram.me/joinchat/AAAAAD25mIzUH
 * * *
 
 # Developers!
-# مطور السورس
+# ⭐️💎 مطور السورس
 [saadmzed](https://github.com/saadmzed) ([Telegram](https://telegram.me/saad7m))
 
 
-### Our Telegram channel:
+### Our Telegram channel: من قضلك تابع قنواتي من اجل التحديثات ⭐️💎
 
 [@kenamch](https://telegram.me/kenamch)
 
