@@ -41,7 +41,7 @@
 
 💡 vps لتشغيل السورس على سرفر 💡:
 cd k-namapi
-chmod 777 auto-k.sh
+chmod 777 k-auto.sh
 tmux
 ./k-auto.sh
 ```
