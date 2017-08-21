@@ -43,7 +43,7 @@
 cd k-namapi
 chmod 777 auto-k.sh
 tmux
-./auto-k.sh
+./k-auto.sh
 ```
 ### One command
 لتنصيب السورس بكود واحد  :
